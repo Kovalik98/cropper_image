@@ -4,9 +4,8 @@ Pod::Spec.new do |s|
   s.summary          = "The open source fonts for Artsy apps + UIFont categories."
   s.homepage         = "https://github.com/Kovalik98/cropper_image.git"
   s.license          = 'Code is MIT, then custom font licenses.'
-  s.author           = { "Orta" => "orta.therox@gmail.com" }
-  s.source           = { :git => "git@github.com:Kovalik98/cropper_image.git", :tag => v1.0 }
-  s.social_media_url = 'https://twitter.com/artsy'
+  s.source           = { :git => "git@github.com:Kovalik98/cropper_image.git", :tag => v1.2 }
+
 
   s.platform     = :ios, '14.0'
   s.requires_arc = true
